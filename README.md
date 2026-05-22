@@ -23,10 +23,10 @@ Este repositorio contiene un cuaderno de Jupyter centrado en el aprendizaje y la
     - Simulación de Trayectorias
     Se presentan dos enfoques para simular las trayectorias:
     
-    Versión Básica: Implementada con bucles for anidados.
+            - Versión Básica: Implementada con bucles for anidados.
     
-    Versión Eficiente: Optimizada para procesar múltiples muestras simultáneamente usando operaciones vectorizadas de Numpy, lo que reduce drásticamente el tiempo de ejecución .
+            - Versión Eficiente: Optimizada para procesar múltiples muestras simultáneamente usando operaciones vectorizadas de Numpy, lo que reduce drásticamente el tiempo de ejecución .
     
     -  Visualización
-      El notebook incluye código para generar gráficos que muestran el comportamiento de varios caminantes a lo largo del tiempo, facilitando la comprensión visual      de cómo evolucionan los estados en la cadena.
+      El notebook incluye código para generar gráficos que muestran el comportamiento de varias trayectorias a lo largo del tiempo, facilitando la comprensión             visual.
 
