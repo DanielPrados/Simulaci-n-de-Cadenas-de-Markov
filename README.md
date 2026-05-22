@@ -1,1 +1,1 @@
-# Simulaci-n-de-Cadenas-de-Markov
+# Simulacion-de-Cadenas-de-Markov
